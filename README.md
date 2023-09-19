@@ -1,4 +1,5 @@
 # Big Data: Overview, Examples, and Types
+![Big Data](https://tenor.com/view/big-data-gif-25444307)
 
 ## Table of Contents
 
