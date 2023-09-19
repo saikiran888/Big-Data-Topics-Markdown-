@@ -60,7 +60,7 @@
 - **Definition:** Spatial data is tied to geographical locations or coordinates, enabling geographic analysis and mapping.
 - **Examples:** GPS data, maps, geographic information system (GIS) data, and location-based data.
 
-# 6 V's
+# 6 ‘V’s of Big Data
 
 ![image](https://github.com/saikiran888/Big-Data-Topics-Markdown-/assets/34718070/90162f3a-8975-4a59-83a5-853060ae5ab7)
 
