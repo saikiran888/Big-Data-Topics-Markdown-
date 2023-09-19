@@ -86,12 +86,12 @@ Examples include:
    - Semi-structured data: JSON or XML files containing user profiles
    - Unstructured data: Text from customer reviews, images, audio, and video
 
-### 4. Veracity:
+###  4. Veracity:
 <br> Veracity deals with the reliability and accuracy of the data. In Big Data, it's common to deal with noisy, incomplete, or inconsistent data. <br>Examples of veracity challenges include:
    - Data from social media platforms containing errors, spam, or biased information
    - Sensor data affected by environmental factors causing inaccuracies
 
-### 5. Value:
+###  5. Value:
  The ultimate goal of Big Data is to extract valuable insights and knowledge from the data to inform decision-making. Value is derived from analyzing and interpreting the data to gain actionable insights. Examples of value creation through Big Data analysis include:
    - E-commerce companies analyzing customer behavior to make product recommendations, increasing sales and customer satisfaction
    - Healthcare institutions using patient data to improve treatment outcomes and reduce costs
