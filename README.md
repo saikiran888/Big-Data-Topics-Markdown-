@@ -7,6 +7,8 @@
 - [Big Data with example and types](#Big-Data-with-example-and-types)
 - [Examples of Big Data](#examples-of-big-data)
 - [Types of Big Data](#types-of-big-data)
+- [6 ‘V’s of Big Data](6-‘V’s-of-Big-Data)
+- 
 
 ## Big Data with example and types
 
@@ -91,7 +93,7 @@
    - Weather data exhibiting fluctuations due to seasonal changes and unforeseen weather events
    - Retail sales data varying during holiday seasons and special promotions
 <b>
-# Big Data Analytics Life Cycle
+# Phases of Big Data analysis
 
 ## 1. Business Case/Problem Definition
 
