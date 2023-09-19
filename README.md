@@ -179,3 +179,9 @@ Examples include:
 
 These challenges emphasize the intricacies of dealing with Big Data in real-world scenarios. Addressing these challenges necessitates advanced technology, meticulous planning, and ethical considerations to harness the potential of data while navigating practical limitations.
 
+
+# References
+
+- **Source**: Geeks for Geeks. (n.d.). [Types of big data](https://www.geeksforgeeks.org/types-of-big-data/).
+- **Source**: Sundaramurugan, S. (n.d.). [Big Data an Introduction](https://medium.com/analytics-vidhya/big-data-an-introduction-b7bc048081c9#:~:text=Oct%2017%2C%202021,traditional%20RDBMS%20systems%20to%20handle). Medium.
+- **Source**: Simplilearn [Big Data in 5 minutes](https://youtu.be/bAyrObl7TYE?si=HT1YvnqFp_aOvcZm). YouTube.
