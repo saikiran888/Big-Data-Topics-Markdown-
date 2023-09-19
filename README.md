@@ -1,5 +1,5 @@
 # Big Data
-![image](https://github.com/saikiran888/Big-Data-Topics-Markdown-/assets/34718070/097c8531-f0d4-4a48-8a5d-4967ec9c923e)
+![image](https://github.com/saikiran888/Big-Data-Topics-Markdown-/assets/34718070/e3357812-27d0-4259-95eb-2dc030b848f4)
 
 
 
