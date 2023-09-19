@@ -1,4 +1,4 @@
-# Big Data: Examples, and Types
+# Big Data
 ![image](https://github.com/saikiran888/Big-Data-Topics-Markdown-/assets/34718070/5ce146f1-9f1d-4632-a1df-09463dbd0074)
 
 
