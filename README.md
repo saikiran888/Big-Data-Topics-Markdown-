@@ -17,17 +17,18 @@
 
 ## Examples of Big Data
 
-- **Social Media Data**: Platforms like Facebook and Twitter generate massive amounts of data in the form of user posts, comments, likes, and shares.
+1. **Social Media Data:** Platforms like Facebook and Twitter generate massive amounts of data in the form of user posts, comments, likes, and shares.
 
-- **IoT (Internet of Things)**: Sensors and devices in industries like healthcare, manufacturing, and agriculture produce vast amounts of data for monitoring and control.
+2. **IoT (Internet of Things):** Sensors and devices in industries like healthcare, manufacturing, and agriculture produce vast amounts of data for monitoring and control.
 
-- **E-commerce**: Retailers analyze customer behavior, purchase history, and website traffic to optimize marketing strategies and recommendations.
+3. **E-commerce:** Retailers analyze customer behavior, purchase history, and website traffic to optimize marketing strategies and recommendations.
 
-- **Finance**: Financial institutions use Big Data to detect fraud, make investment decisions, and manage risk by analyzing large volumes of transaction data.
+4. **Finance:** Financial institutions use Big Data to detect fraud, make investment decisions, and manage risk by analyzing large volumes of transaction data.
 
-- **Healthcare**: Medical records, patient data, and genomic data are analyzed to improve patient care, treatment outcomes, and drug discovery.
+5. **Healthcare:** Medical records, patient data, and genomic data are analyzed to improve patient care, treatment outcomes, and drug discovery.
 
-- **Transportation**: GPS data, traffic sensors, and commuter data are used to optimize traffic flow, reduce congestion, and improve transportation services.
+6. **Transportation:** GPS data, traffic sensors, and commuter data are used to optimize traffic flow, reduce congestion, and improve transportation services.
+
 
 
 # Types of Big Data
