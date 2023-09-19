@@ -96,8 +96,8 @@ Examples include:
    - E-commerce companies analyzing customer behavior to make product recommendations, increasing sales and customer satisfaction
    - Healthcare institutions using patient data to improve treatment outcomes and reduce costs
 
-###6. Variability:
- <br>This refers to the inconsistency in data flow. Data flow can be inconsistent due to various factors like seasonal variations, market trends, or sudden spikes in data generation.<br> Examples of variability include:
+###  6. Variability:
+ This refers to the inconsistency in data flow. Data flow can be inconsistent due to various factors like seasonal variations, market trends, or sudden spikes in data generation.<br> Examples of variability include:
    - Weather data exhibiting fluctuations due to seasonal changes and unforeseen weather events
    - Retail sales data varying during holiday seasons and special promotions
 
