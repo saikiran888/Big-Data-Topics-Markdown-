@@ -7,7 +7,7 @@
 - [Big Data with example and types](#Big-Data-with-example-and-types)
 - [Examples of Big Data](#examples-of-big-data)
 - [Types of Big Data](#types-of-big-data)
-- [6 ‘V’s of Big Data](#6-‘V’s-of-Big-Data)
+- [6 ‘V’s of Big Data](#6-‘V’s-of-Big-Data) 
 - [Phases of Big Data analysis](#Phases-of-Big-Data-analysis)
 - [Challenges in Big Data analysis](#Challenges-in-Big-Data-analysis)
 
