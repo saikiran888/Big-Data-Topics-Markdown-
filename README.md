@@ -8,7 +8,8 @@
 - [Examples of Big Data](#examples-of-big-data)
 - [Types of Big Data](#types-of-big-data)
 - [6 ‘V’s of Big Data](6-‘V’s-of-Big-Data)
-- 
+- [Phases of Big Data analysis](Phases-of-Big-Data-analysis)
+- [Challenges in Big Data analysis](Challenges-in-Big-Data-analysis)
 
 ## Big Data with example and types
 
@@ -52,12 +53,12 @@
 - **Definition:** Streaming data is generated continuously and in real-time. It requires immediate processing and analysis as it flows in.
 - **Examples:** IoT sensor data, social media updates, stock market feeds, and live event data.
 
-## Graph Data
+### Graph Data
 
 - **Definition:** Graph data represents entities as nodes and their relationships as edges, allowing for the analysis of complex networks and connections.
 - **Examples:** Social networks, recommendation systems, knowledge graphs, and network traffic data.
 
-## Spatial Data
+### Spatial Data
 
 - **Definition:** Spatial data is tied to geographical locations or coordinates, enabling geographic analysis and mapping.
 - **Examples:** GPS data, maps, geographic information system (GIS) data, and location-based data.
@@ -95,12 +96,12 @@
 <b>
 # Phases of Big Data analysis
 
-## 1. Business Case/Problem Definition
+### 1. Business Case/Problem Definition
 
 - **In Simple Terms**: This phase is like identifying a puzzle to solve. It's about understanding what problem or opportunity we want to address using data analytics. Think of it as defining the question we're trying to answer with data.
 - **Example**: A retail store wants to understand why sales are declining in certain regions. The problem is defined as "Identify the factors causing declining sales."
 
-## 2. Data Identification
+### 2. Data Identification
 
 - **In Simple Terms**: Once we know our question, we need to find the pieces of the puzzle. This phase involves identifying the data sources we'll need to collect or access to solve our problem. It's like gathering all the necessary clues.
 - **Example**: The store identifies data sources such as sales records, customer demographics, inventory levels, and external factors like local economic data.
@@ -141,7 +142,7 @@
 - **Example**: The store uses the insights gained, such as identifying the impact of specific promotions on sales, to make informed decisions on marketing strategies and inventory management.
 
 
-# Big Data Challenges
+# Challenges in Big Data analysis
 
 ## Challenge 1: Heterogeneity and Incompleteness
 **Challenge:** Big Data often originates from diverse sources with different formats, making integration and analysis complex. Data may also be incomplete or inconsistent.
