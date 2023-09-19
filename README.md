@@ -13,7 +13,7 @@
 
 ## Big Data with example and types
 
-**Big Data** refers to extremely large and complex datasets that are beyond the ability of traditional data processing tools and methods to capture, store, manage, and analyze within a reasonable timeframe. Big Data is characterized by the three V's: volume, velocity, and variety. In recent years, additional V's, such as veracity and value, have been added to provide a more comprehensive understanding of Big Data.
+**Big Data** refers to extremely large and complex datasets that are beyond the ability of traditional data processing tools and methods to capture, store, manage, and analyze within a reasonable timeframe. Volume, Velocity, and Variety are the three V's that define big data. Veracity and value are two more Vs that have been added in recent years to give an even deeper understand of big data.
 
 ## Examples of Big Data
 
